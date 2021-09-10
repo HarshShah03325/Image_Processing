@@ -72,7 +72,8 @@ To show only blue ball a mask has been applied to the following input image
 |:---:|:---:|
 |Input Image|Masked Image(output)|
 
-
+### Blob detection
+<img src="./Blob detection/blob_detection.gif" width="600" />
 
 
 
